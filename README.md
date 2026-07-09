@@ -2,7 +2,7 @@
 
 **Fishstrap Roblox** is a powerful custom launcher for Roblox. It provides advanced FastFlags editing, multi-instance support, performance tweaks, and better control over your Roblox experience compared to the official launcher.
 
-<img width="418" height="420" alt="image" src="https://github.com/user-attachments/assets/a250c4d6-2726-463f-815f-19c839b22666" />
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/a250c4d6-2726-463f-815f-19c839b22666" />
 
 ## Install
 [Download `Fishstrap.zip`](https://github.com/Sasageman/Fishstrap-Roblox/releases/download/v3.0.1.1/Fishstrap.zip)
